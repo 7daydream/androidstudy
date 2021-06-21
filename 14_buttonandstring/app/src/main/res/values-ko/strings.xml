@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">14_buttonandstring</string>
+    <string name="hello">안녕 \n 만나서 반가워</string>
+</resources>

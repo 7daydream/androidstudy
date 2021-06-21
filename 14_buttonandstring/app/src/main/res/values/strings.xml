@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">14_buttonandstring</string>
+    <string name="hello">Hello \n Nice to meet you</string>
+</resources>
